@@ -34,9 +34,3 @@ Computer systems enthusiast focused on **low-level architecture**, **binary anal
 </p>
 
 ---
-
-### Contact & Links
-
-* **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com)
-* **Email:** [seu.email@dominio.com](mailto:seu.email@dominio.com)
-* **Blog / Write-ups:** [seusite.com](https://seusite.com)
